@@ -1,4 +1,3 @@
-https://tomascurcio04.github.io/TomasCurcio04/
 # Sobre mí
 Hola, soy Tomás, estudiante de Licenciatura en Sistemas en la UNLP. Me gusta el desarrollo de software y aprender constantemente nuevas herramientas para poder mejorar mis habilidades.
 
