@@ -1,5 +1,4 @@
-# Sobre mi
-![Contador de visitas](https://komarev.com/ghpvc/?username=TomasCurcio04&style=flat-square&color=blue)
+# Sobre mi ![Contador de visitas](https://komarev.com/ghpvc/?username=TomasCurcio04&style=flat-square&color=blue)
 Hola! Soy Tomás, estudiante de Licenciatura en Sistemas en la UNLP, actualmente estoy en mi 3er año de la carrera. Me gusta el desarrollo de software y aprender constantemente nuevas herramientas para poder mejorar mis habilidades.
 - 💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-curcio-567299254)
 
