@@ -7,8 +7,7 @@ Me gusta scontribuir al desarrollo de software y disfruto aprender constantement
 Las resoluciones y prácticas que comparto aquí son elaboradas por mí y no cuentan con el aval oficial de la cátedra.  
 Pueden contener errores, por lo que toda corrección o sugerencia es más que bienvenida.  
 
-📧 Si querés contactarme: tomicurcio1@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-curcio-567299254)
+Si querés contactarme: 📧 tomicurcio1@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-curcio-567299254)
 
 
 
