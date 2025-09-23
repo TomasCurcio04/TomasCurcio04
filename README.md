@@ -18,6 +18,7 @@ Si querés contactarme: 📧 tomicurcio1@gmail.com 💼 [LinkedIn](https://www.l
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-00007B?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🗄️ Base de Datos
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
